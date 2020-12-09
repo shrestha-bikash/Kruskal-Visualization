@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  min-height: 80vmin;
   pointer-events: none;
 }
 
@@ -35,4 +35,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  margin-top: .25rem;
+  margin-bottom: .25rem;
+  margin-right: .25em;
+  margin-left: .25em;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+.btn:hover {
+  cursor: pointer;
+}
+.btn:focus {
+  border: 1 px solid #007bff;
 }
