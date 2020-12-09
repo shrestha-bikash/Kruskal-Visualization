@@ -14,7 +14,7 @@
     "union-find": "^1.0.2",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://shrestha-bikash.github.io/kruskal-vis",
+  "homepage": "https://shrestha-bikash.github.io/Kruskal-Visualization",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
