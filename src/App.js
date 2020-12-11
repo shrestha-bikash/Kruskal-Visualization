@@ -70,7 +70,7 @@ function App() {
   useEffect(() => {
     const canvas = createCanvas('graph');
     canvas.remove();
-    canvas.size([800, 800]);
+    canvas.size([500, 500]);
     canvas.zoom(1.5);
     canvas.edgelayout('symmetric');
     canvas.nodes(network.nodes).add().color('blue');
