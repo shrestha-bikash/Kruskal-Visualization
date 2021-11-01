@@ -1,6 +1,8 @@
 # Kruskal's Algorithm
 This is a simple implementaion of Kruskal's algorithm to find the minimum spanning tree. There is animation to show how the algorithm progresses by showing all the paths it takes to find the tree. React was used to implement visualization.
 
+There are two sample networks that show the implementation.
+
 
 ## Available Scripts
 
