@@ -1,3 +1,7 @@
+# Kruskal's Algorithm
+This is a simple implementaion of Kruskal's algorithm to find the minimum spanning tree. There is animation to show how the algorithm progresses by showing all the paths it takes to find the tree. React was used to implement visualization.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -9,19 +13,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### Deployment
-
-### `npm run deploy`
-
-Deploy the build to the github pages
